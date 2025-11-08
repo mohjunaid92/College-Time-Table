@@ -1,0 +1,44 @@
+#HJLB {
+    background-color: rgb(255, 127, 80);
+    text-align: center;
+}
+td {
+    text-align: center;
+    
+}
+#wd {
+    background-color: rgb(160, 221, 223);
+}
+#sk {
+    background-color: rgb(43, 186, 243);
+}
+#os {
+    background-color: chartreuse;
+}
+#M {
+    background-color: rgb(124, 88, 41);
+}
+#c {
+    background-color: green;
+}
+#english {
+    background-color: yellow;
+}
+#ai {
+     background-color: rgb(228, 108, 23);
+}
+#lab{
+    background-color: rgba(240, 169, 213, 0.863);
+}
+#labai {
+
+     background-color: rgb(255, 127, 80);
+}
+#rea {
+    background-color: rgb(71, 250, 125);
+}
+
+#table {
+    text-align: center;
+    border: 2px;
+}
